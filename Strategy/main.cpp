@@ -15,5 +15,5 @@ void HandleDisplay(vector<Duck> ducks)
 
 int main()
 {
-    HandleDisplay({DecoyDuck(),MallardDuck(), RedHeadDuck()});
+    HandleDisplay({DecoyDuck(), MallardDuck(), RedHeadDuck()});
 }
